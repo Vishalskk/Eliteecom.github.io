@@ -496,7 +496,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* bottom: 10px; */
-    background-image: url(../images/product-1\(1\).jpg);
+    background-image: url(product-1\(1\).jpg);
     overflow: hidden;
 }
 .pro2stimg{
@@ -506,7 +506,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* bottom: 10px; */
-    background-image:url(../images/product-4.jpg);
+    background-image:url(product-4.jpg);
     overflow: hidden;
 }
 .pro3stimg{
@@ -516,7 +516,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* bottom: 10px; */
-    background-image: url(../images/product-7.jpg);
+    background-image: url(product-7.jpg);
     overflow: hidden;
 }
 .pro4stimg{
@@ -526,7 +526,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     bottom: 30px;
-    background-image: url(../images/product-2\(1\).jpg);
+    background-image: url(product-2\(1\).jpg);
     overflow: hidden;
 }
 .pro5stimg{
@@ -536,7 +536,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* bottom: 10px; */
-    background-image: url(../images/product-5.jpg);
+    background-image: url(product-5.jpg);
     overflow: hidden;
 }
 .pro6stimg{
@@ -546,7 +546,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* bottom: 10px; */
-    background-image: url(../images/product-8.jpg);
+    background-image: url(product-8.jpg);
     overflow: hidden;
 }
 .pro7stimg{
@@ -556,7 +556,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* bottom: 10px; */
-    background-image: url(../images/product-3.jpg);
+    background-image: url(product-3.jpg);
     overflow: hidden;
 }
 .pro8stimg{
@@ -566,7 +566,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* bottom: 10px; */
-    background-image: url(../images/product-6.jpg);
+    background-image: url(product-6.jpg);
     overflow: hidden;
 }
 .pro9stimg{
@@ -576,7 +576,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* top: -50px; */
-    background-image: url(../images/product-9.jpg);
+    background-image: url(product-9.jpg);
     overflow: hidden;
 }
 .hov1{
@@ -599,7 +599,7 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-4.jpg);
+    background-image: url(product-4.jpg);
     display: none;
     position: absolute;
     bottom: 0px;
@@ -608,7 +608,7 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-2\(1\).jpg);
+    background-image: url(product-2\(1\).jpg);
     display: none;
     position: absolute;
     bottom: 0px;
@@ -617,7 +617,7 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-3.jpg);
+    background-image: url(product-3.jpg);
     display: none;
     position: absolute;
     bottom: 0px;
@@ -626,7 +626,7 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-5.jpg);
+    background-image: url(product-5.jpg);
     display: none;
     position: absolute;
     bottom: 0px;
@@ -635,7 +635,7 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-3.jpg);
+    background-image: url(product-3.jpg);
     display: none;
     position: absolute;
     bottom: 0px;
@@ -644,7 +644,7 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-5.jpg);
+    background-image: url(product-5.jpg);
     display: none;
     position: absolute;
     bottom: 0px;
@@ -653,7 +653,7 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-6.jpg);
+    background-image: url(product-6.jpg);
     display: none;
     position: absolute;
     bottom: 0px;
@@ -662,7 +662,7 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-1\(1\).jpg);
+    background-image: url(product-1\(1\).jpg);
     display: none;
     position: absolute;
     bottom: 0px;
@@ -671,7 +671,7 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-2\(1\).jpg);
+    background-image: url(product-2\(1\).jpg);
     display: none;
     position: absolute;
     bottom: 0px;
@@ -715,7 +715,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* bottom: 10px; */
-    /* background-image: url(../images/product-1\(1\).jpg); */
+    /* background-image: url(product-1\(1\).jpg); */
 
 /* .pro2stimg{
     height: 330px;
@@ -723,7 +723,7 @@ margin-bottom: 20px;
     margin: auto;
     position: relative;
     /* bottom: 10px; */
-    /* background-image: url(../images/product-4.jpg); */
+    /* background-image: url(product-4.jpg); */
 
 .hov1{
     height: 20px;
@@ -745,28 +745,28 @@ margin-bottom: 20px;
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-4.jpg);
+    background-image: url(product-4.jpg);
     display: none;
 }
 .prduct2hover{
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-5.jpg);
+    background-image: url(product-5.jpg);
     display: none;
 }
 .prduct3hover{
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-6.jpg);
+    background-image: url(product-6.jpg);
     display: none;
 }
 .prduct4hover{
     height: 330px;
     width: 250px;
     margin: auto;
-    background-image: url(../images/product-2\(1\).jpg);
+    background-image: url(product-2\(1\).jpg);
     display: none;
 } */
 .insta{
